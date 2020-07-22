@@ -1,2 +1,2 @@
 # courseraa
-kani teat
+kani test
